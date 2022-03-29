@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanu0925&label=Profile%20views&color=0e75b6&style=flat" alt="bhanu0925" /> </p>
 
-- I have technical experience and interest in - **Machine Learning, Computer vision, Natural Language Processing**
+- I have technical experience and interest in - **Machine Learning, Deep LEarning,Computer vision, Natural Language Processing**
 
 - 📝 I regularly write articles on [https://medium.com/@bhanu0925](https://medium.com/@bhanu0925)
 
